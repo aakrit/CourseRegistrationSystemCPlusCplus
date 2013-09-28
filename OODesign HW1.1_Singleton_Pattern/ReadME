@@ -1,0 +1,11 @@
+This Project work is done in C++,
+
+This work builts a singleton to mock a student registration system for a course.
+
+I do a check to make sure only one instance of the registrar is created. I have a registrar implemented as a singleton, i have a courses and student classes. to add a student to a class, i first create classes, then students, then add the students to the class using the registrar object.
+
+I complied this code using xcode and it build and ran sucessfully.
+
+The code is very straight forward to follow and i have provided comments where necessary. Some things are committed out as i was trying to go above and beyond and do more than what the assignment asked for but did not have time to complete it.
+
+Thank you.
